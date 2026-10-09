@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** Muhammad Abdur Rab Siddiqui
+- **CCID:** msiddiq6
 
 ## References and Resources
 
